@@ -1,0 +1,10 @@
+{
+  "name": "hyper-night-and-day",
+  "version": "1.0.0",
+  "description": "A time based light / dark theme switcher for hyper terminal with macOS dark-mode support.",
+  "main": "index.js",
+  "repository": "git@github.com:fabianSorn/hyper-night-and-day.git",
+  "author": "Fabian Sorn <fabian.sorn@online.de>",
+  "license": "MIT",
+  "private": false
+}
