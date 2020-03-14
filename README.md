@@ -1,3 +1,5 @@
+![alt text](assets/logo.png)
+
 # hyper-night-and-day
 hyper-night-and-day is a plugin for the hyper-terminal which allows switching
 between light and dark theme based on macOS light / dark mode settings.
