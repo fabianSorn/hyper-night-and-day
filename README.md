@@ -1,4 +1,6 @@
-![alt text](assets/logo.png)
+<p align="center">
+  <img src="assets/logo.png" width="200" alt="logo of hyper-night-and-day">
+</p>
 
 # hyper-night-and-day
 hyper-night-and-day is a plugin for the hyper-terminal which allows switching
